@@ -48,6 +48,8 @@
         <option value="$PROJECT_DIR$/servicezuul/pom.xml" />
         <option value="$PROJECT_DIR$/demozuul/pom.xml" />
         <option value="$PROJECT_DIR$/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/configclient/pom.xml" />
+        <option value="$PROJECT_DIR$/democonfigserver/pom.xml" />
       </list>
     </option>
   </component>
